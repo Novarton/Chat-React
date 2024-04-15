@@ -1,0 +1,20 @@
+.mi-boton{
+    background: #15449b;
+    color: #FFFFFF;
+    padding: 15px;
+    margin: 5px 12px;
+    box-shadow: 1px 3px 2px -1px rgba(0, 0, 0, 0);
+    border-radius: 4px;
+    height: fit-content;
+    width: fit-content;
+    user-select: none;
+    cursor: pointer;
+}
+
+.mi-boton:hover{
+    background-color: #6d6d6d;
+}
+
+.mi-boton:active{
+    background-color: aqua;
+}
